@@ -1,1 +1,12 @@
-p { background-color: red;}
+h1 {
+   color: blue;
+}
+.henkilöt {
+  color: #FF00FF;
+}
+#punainen-kohta {
+  color: red;
+}
+
+* { color: #8B0000;}
+
