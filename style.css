@@ -1,6 +1,28 @@
-h1 {
-   color: blue;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
 }
+
+h1{
+  color: #333;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
+
+h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
+
 .henkilöt {
   color: #FF00FF;
 }
@@ -8,5 +30,4 @@ h1 {
   color: red;
 }
 
-* { color: #8B0000;}
 
